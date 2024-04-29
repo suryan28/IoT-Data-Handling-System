@@ -15,11 +15,11 @@ This Python script is designed to process incoming MQTT messages via RabbitMQ an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/suryan28/IoT-Data-Handling-System.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd 
+   cd IoT-Data-Handling-System
    ```
 3. **Create virtual environment:**
    ```bash
